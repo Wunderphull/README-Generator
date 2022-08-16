@@ -23,7 +23,7 @@
 ## About
   A clear, succinct README file associated with each repository is an important component: README files contain essential information about the repository's project. Thus, the quality of a README file can differentiate a high-quality repository from a low-quality one. A command-line application will allow for quick and easy generation of a project README to get started quickly.
 
---
+---
 ## User Story
 
 ```md
@@ -31,7 +31,7 @@ AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 ```
---
+---
 ## Acceptance Criteria
 
 ```md
@@ -62,7 +62,6 @@ https://user-images.githubusercontent.com/100050797/185003398-97c71eca-a7ea-4232
 
 
 ---
-
 ## Installation:
   
 ```
@@ -75,7 +74,6 @@ To clone the repo:
   ```
 ``` 
 ---
-
 ## License
 ```
   License used for this project - MIT
@@ -84,7 +82,6 @@ To clone the repo:
 ```
 
 ---
-
 ## Contributing:
  ``` 
   To contribute to this application, create a pull request.
@@ -99,7 +96,6 @@ To clone the repo:
 ```
 
 ---
-
   ## Authors and Acknowledgments
   ```
   Built by [Wunderphull](https://github.com/Wunderphull).
