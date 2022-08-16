@@ -66,12 +66,10 @@ https://user-images.githubusercontent.com/100050797/185003398-97c71eca-a7ea-4232
   
 ```
 To clone the repo:
-  
-  git clone 
-  
-  ```
-  git@github.com:Wunderphull/README-Generator.git
-  ```
+  ``` 
+  git clone git@github.com:Wunderphull/README-Generator.git
+  ``` 
+
 ``` 
 ---
 ## License
