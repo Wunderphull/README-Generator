@@ -51,8 +51,12 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
--- Example Video
-##[created-README.md](https://github.com/Wunderphull/README-Generator/files/9355194/created-README.md)
+---
+## Example Video
+
+https://user-images.githubusercontent.com/100050797/185001852-4526f98b-cb02-40d4-826a-954c7749568f.mp4
+
+
 
 ---
 
@@ -64,7 +68,7 @@ To clone the repo:
   git clone 
   
   ```
-  git@github.com:jfisher396/readme-generator.git
+  git@github.com:Wunderphull/README-Generator.git
   ```
   
 ---
