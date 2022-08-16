@@ -56,12 +56,8 @@ THEN I am taken to the corresponding section of the README
 ## Example Video
 
 
-![Usage Example](README_Visual/README.md_Generator720.mp4)
-
-
 
 https://user-images.githubusercontent.com/100050797/185003398-97c71eca-a7ea-4232-b387-e72065af8314.mp4
-
 
 
 
