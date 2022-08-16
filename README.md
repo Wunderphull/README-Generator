@@ -54,8 +54,8 @@ THEN I am taken to the corresponding section of the README
 ---
 ## Example Video
 
-https://user-images.githubusercontent.com/100050797/185001852-4526f98b-cb02-40d4-826a-954c7749568f.mp4
 
+https://user-images.githubusercontent.com/100050797/185002295-66677fa9-6f9a-49fd-8e7f-f715b15b46c0.mp4
 
 
 ---
