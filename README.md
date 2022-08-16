@@ -50,6 +50,7 @@ WHEN I enter my email address
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
+```
 
 ---
 ## Example Video
@@ -62,7 +63,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Installation:
   
-
+```
 To clone the repo:
   
   git clone 
@@ -70,18 +71,20 @@ To clone the repo:
   ```
   git@github.com:Wunderphull/README-Generator.git
   ```
-  
+``` 
 ---
 
 ## License
+```
   License used for this project - MIT
   * For more information on license types, please reference this website
   for additional licensing information - [https: //choosealicense.com/](https://choosealicense.com/).
+```
 
 ---
 
 ## Contributing:
-  
+ ``` 
   To contribute to this application, create a pull request.
   Here are the steps needed for doing that:
   - Fork the repository,
@@ -91,9 +94,11 @@ To clone the repo:
   - Create a new Pull Request.
 
   Following a code review, your feature will be merged.
-
+```
 
 ---
 
   ## Authors and Acknowledgments
+  ```
   Built by [Wunderphull](https://github.com/Wunderphull).
+  ```
